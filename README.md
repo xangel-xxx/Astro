@@ -14,6 +14,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/st%E2%9C%A6r-st%E2%9C%A6r?style=plastic&label=sl%E2%9C%A6%E2%9C%A6py&labelColor=%23c5bac6&color=%234f48c7)
+![Static Badge](https://img.shields.io/badge/descendent-descendent?label=M%E2%9C%A6%E2%9C%A6n's&labelColor=%23cdd6e9&color=%236e66dc)
 
 
 <img width="500" height="500" alt="fc154abf608727e97e68a877569da92d-removebg-preview" src="https://github.com/user-attachments/assets/4ffb2c52-1e19-4c36-9d3a-0797cc8af910" />
