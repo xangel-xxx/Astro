@@ -13,17 +13,16 @@
 ![image31 (1)](https://github.com/user-attachments/assets/846b3ad2-45ef-4b70-8e3f-d8e8fd876d0d)
 
 
-![blinkiesCafe-II](https://github.com/user-attachments/assets/23f6f089-a1b2-49bd-b174-65549ec98373)
-![blinkiesCafe-Ua](https://github.com/user-attachments/assets/7f7d35a0-6c59-47da-ac94-76bd158aea7e)
-![blinkiesCafe-zv](https://github.com/user-attachments/assets/05a0f8d0-244a-4baf-8f6a-692ffa2eaef8)
-![blinkiesCafe-TO](https://github.com/user-attachments/assets/f76f00e8-523b-4b0a-989c-76c035d7d3b1)
+![Static Badge](https://img.shields.io/badge/st%E2%9C%A6r-st%E2%9C%A6r?style=plastic&label=sl%E2%9C%A6%E2%9C%A6py&labelColor=%23c5bac6&color=%234f48c7)\
 
 
 <img width="500" height="500" alt="fc154abf608727e97e68a877569da92d-removebg-preview" src="https://github.com/user-attachments/assets/4ffb2c52-1e19-4c36-9d3a-0797cc8af910" />
 
 
-![Static Badge](https://img.shields.io/badge/st%E2%9C%A6r-st%E2%9C%A6r?style=plastic&label=sl%E2%9C%A6%E2%9C%A6py&labelColor=%23c5bac6&color=%234f48c7)
-
+![blinkiesCafe-II](https://github.com/user-attachments/assets/23f6f089-a1b2-49bd-b174-65549ec98373)
+![blinkiesCafe-Ua](https://github.com/user-attachments/assets/7f7d35a0-6c59-47da-ac94-76bd158aea7e)
+![blinkiesCafe-zv](https://github.com/user-attachments/assets/05a0f8d0-244a-4baf-8f6a-692ffa2eaef8)
+![blinkiesCafe-TO](https://github.com/user-attachments/assets/f76f00e8-523b-4b0a-989c-76c035d7d3b1)
 
 
 
