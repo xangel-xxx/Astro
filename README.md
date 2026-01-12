@@ -9,6 +9,7 @@
 
 ![0](https://github.com/user-attachments/assets/b7c605f7-5737-42f5-8969-0b494e65f9c6)
 
+
 ![image31 (1)](https://github.com/user-attachments/assets/846b3ad2-45ef-4b70-8e3f-d8e8fd876d0d)
 
 
@@ -18,17 +19,10 @@
 ![blinkiesCafe-TO](https://github.com/user-attachments/assets/f76f00e8-523b-4b0a-989c-76c035d7d3b1)
 
 
-![image22](https://github.com/user-attachments/assets/fb6d49e6-a848-4dae-8a69-2f01458e85f4)
-![image22](https://github.com/user-attachments/assets/fb6d49e6-a848-4dae-8a69-2f01458e85f4)
-![image22](https://github.com/user-attachments/assets/fb6d49e6-a848-4dae-8a69-2f01458e85f4)
+<img width="500" height="500" alt="fc154abf608727e97e68a877569da92d-removebg-preview" src="https://github.com/user-attachments/assets/4ffb2c52-1e19-4c36-9d3a-0797cc8af910" />
 
 
-
-
-
-
-
-
+![Static Badge](https://img.shields.io/badge/st%E2%9C%A6r-st%E2%9C%A6r?style=plastic&label=sl%E2%9C%A6%E2%9C%A6py&labelColor=%23c5bac6&color=%234f48c7)
 
 
 
