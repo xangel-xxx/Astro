@@ -12,10 +12,12 @@
 
 ![image31 (1)](https://github.com/user-attachments/assets/846b3ad2-45ef-4b70-8e3f-d8e8fd876d0d)
 
-
+![image5](https://github.com/user-attachments/assets/da28563f-4f23-4eb1-be9b-feb352ab6502)
+![image33](https://github.com/user-attachments/assets/f8e6c939-dfec-416d-b608-76d2a199408e)
 ![Static Badge](https://img.shields.io/badge/st%E2%9C%A6r-st%E2%9C%A6r?style=plastic&label=sl%E2%9C%A6%E2%9C%A6py&labelColor=%23c5bac6&color=%234f48c7)
 ![Static Badge](https://img.shields.io/badge/descendent-descendent?style=plastic&label=M%E2%9C%A6%E2%9C%A6n's&labelColor=%23cdd6e9&color=%236e66dc)
-
+![image30](https://github.com/user-attachments/assets/de73d1b5-e20a-4e6d-89be-b60978c0f683)
+![image13](https://github.com/user-attachments/assets/d7b3266b-b597-4581-998e-d0552b43bbb4)
 
 <img width="500" height="500" alt="fc154abf608727e97e68a877569da92d-removebg-preview" src="https://github.com/user-attachments/assets/4ffb2c52-1e19-4c36-9d3a-0797cc8af910" />
 
@@ -36,9 +38,12 @@ $${\color{#4d58a4} Astro \space , \space Nova \space , \space Nebula/Neb/Nebby }
 <img width="26" height="16" alt="image52" src="https://github.com/user-attachments/assets/a11385bd-a3c8-405a-9133-6953047be26b" />
 <img width="26" height="16" alt="image56" src="https://github.com/user-attachments/assets/c5084f4e-3a35-4943-87db-53ccbd011aa1" />
 
-
 $${\color{#2a92de} He \space / \space They \space ,, \space Star/Toon \space prns }$$
 
+![image22](https://github.com/user-attachments/assets/bb510344-0934-4a6a-9746-026833cb6874)
+![image22](https://github.com/user-attachments/assets/bb510344-0934-4a6a-9746-026833cb6874)
+![image22](https://github.com/user-attachments/assets/bb510344-0934-4a6a-9746-026833cb6874)
+![image22](https://github.com/user-attachments/assets/bb510344-0934-4a6a-9746-026833cb6874)
 
 
 
@@ -46,6 +51,9 @@ $${\color{#2a92de} He \space / \space They \space ,, \space Star/Toon \space prn
 
 
 
+
+
+![b22538b32bef82c03d0e520bff15bf3b](https://github.com/user-attachments/assets/9c89c5ad-2c4d-441c-8d28-78478eedfa14)
 
 
 </div>
