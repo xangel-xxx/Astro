@@ -28,19 +28,15 @@
 
 ![image26](https://github.com/user-attachments/assets/cab11192-42db-4efe-9d50-e53c717ba295)
 
-<img width="26" height="16" alt="image55" src="https://github.com/user-attachments/assets/7094d649-2cff-4d98-b51c-8cc478be7d7e" />
-
 $${\color{#4d58a4} Astro \space , \space Nova \space , \space Nebula/Neb/Nebby }$$
 
+<img width="26" height="16" alt="image55" src="https://github.com/user-attachments/assets/7094d649-2cff-4d98-b51c-8cc478be7d7e" />
 <img width="26" height="16" alt="image54 (1)" src="https://github.com/user-attachments/assets/09c92952-52a2-48af-b7c8-6895a48481f4" />
-
-
 <img width="26" height="16" alt="image49" src="https://github.com/user-attachments/assets/3c82d5f5-9b86-400a-8d21-73673c202094" />
-
-$${\color{#2a92de} He \space / \space They \space ,, \space Star/Toon \space prns }$$
-
 <img width="26" height="16" alt="image56" src="https://github.com/user-attachments/assets/c5084f4e-3a35-4943-87db-53ccbd011aa1" />
 
+
+$${\color{#2a92de} He \space / \space They \space ,, \space Star/Toon \space prns }$$
 
 
 
