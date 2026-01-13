@@ -29,7 +29,7 @@
 ![image26](https://github.com/user-attachments/assets/cab11192-42db-4efe-9d50-e53c717ba295)
 
 
-$${\color{#4d58a4} Astro \space , \space Nova , \space Nebula/Neb/Nebby }$$
+$${\color{#4d58a4} Astro \space , \space Nova \space , \space Nebula/Neb/Nebby }$$
 
 $${\color{#2a92de} He \space / \space They \space ,, \space Star/Toon \space prns }$$
 
