@@ -46,12 +46,17 @@ $${\color{#2a92de} He \space / \space They \space ,, \space Star/Toon \space prn
 <details>
 <summary>$${\color{#72d7d7} DNI's \space , \space IWC's \space , \space INT's }$$</summary>
 $${\color{#6ee4cf} Doubles \space : \space INT! }$$
-$${\color{#6ee4cf} Other \space systems \space : \space INT! }$$
-$${\color{#6ee4cf} Fictives/FictionKins \space : \space INT! }$$
-$${\color{#6ee4cf} Itrojects(INTRJ) \space : \space INT! }$$
-$${\color{#6ee4cf} Homophobes \space and \space Transphobes \space : \space DNI }$$
-$${\color{#6ee4cf} Racists \space and \space Incest \space : \space DNI }$$
 
+$${\color{#6ee4cf} Other \space systems \space : \space INT! }$$
+
+$${\color{#6ee4cf} Fictives/FictionKins \space : \space INT! }$$
+
+$${\color{#6ee4cf} Itrojects(INTRJ) \space : \space INT! }$$
+
+$${\color{#6ee4cf} Homophobes \space and \space Transphobes \space : \space DNI }$$
+
+$${\color{#6ee4cf} Racists \space and \space Incest \space : \space DNI }$$
+</details>
 
 ![image22](https://github.com/user-attachments/assets/bb510344-0934-4a6a-9746-026833cb6874)
 ![image22](https://github.com/user-attachments/assets/bb510344-0934-4a6a-9746-026833cb6874)
